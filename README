@@ -1,0 +1,11 @@
+Usage: ruby filesplitter.rb export_file.txt result_file.txt
+
+
+export_file.txt
+Simple text file that contains URLs that are separated by a newline
+
+result_file.txt
+Will be created 
+URLs that do not succeed will be written here, separated by a newline
+
+
