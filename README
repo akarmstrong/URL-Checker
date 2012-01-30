@@ -1,4 +1,4 @@
-Usage: ruby filesplitter.rb export_file.txt result_file.txt
+Usage: ruby find404s.rb export_file.txt result_file.txt
 
 
 export_file.txt
